@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bigdatafinal/static/js/main.160f538b.js",
+    "main.js": "/bigdatafinal/static/js/main.39629e4a.js",
     "index.html": "/bigdatafinal/index.html",
-    "main.160f538b.js.map": "/bigdatafinal/static/js/main.160f538b.js.map"
+    "main.39629e4a.js.map": "/bigdatafinal/static/js/main.39629e4a.js.map"
   },
   "entrypoints": [
-    "static/js/main.160f538b.js"
+    "static/js/main.39629e4a.js"
   ]
 }
